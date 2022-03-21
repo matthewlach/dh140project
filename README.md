@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Los Angeles County Environmental Analysis
 
-You can use the [editor on GitHub](https://github.com/matthewlach/dh140project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This project is a compilation of a quarter's work and my first introduction to Python. The aim of this work is to quantify the uneven brunt of environmental effects on disadvantaged communities in my home county, LA County. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matthewlach/dh140project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+To view the completed project and interactive visualizations, click [here](https://sites.google.com/d/1YEJ2rYpCJKBk5JrnT8dmV9EEZ4Wk-5Sw/p/1PAz3UvvsClA9dmIvlDfCR7IQk_xb9I_c/edit).
